@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
+  "homepage": "https://rahulagg1804.github.io/test-react-component-lib",
   "repository": {
-    "url": "https://github.com/michal-wrzosek/react-component-lib",
+    "url": "https://github.com/rahulagg1804/react-component-lib",
     "type": "git"
   },
   "license": "MIT",
